@@ -1,0 +1,2 @@
+This file is protected by the OS. Access is granted only when the authorized USB device is plugged in. Permission checks are enforced by the kernel during file open operations.
+
